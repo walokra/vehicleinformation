@@ -1,0 +1,7 @@
+{
+  "name": "trafi-ajoneuvotiedot",
+  "workspaces": [
+    "backend",
+    "frontend"
+  ]
+}
